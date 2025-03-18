@@ -1,5 +1,21 @@
 {
     "danilo": "123",
     "dan": "1234",
-    "henrique": "123"
+    "henrique": "123",
+    "danilo.santos": {
+        "full_name": "Danilo Lucas",
+        "age": 17,
+        "birth_date": "29/05/2007",
+        "gender": "Masculino",
+        "location": "s\u00e3o paulo",
+        "password": "DanDan2007!"
+    },
+    "lucas.ribeiro": {
+        "full_name": "Lucas Ribeiro",
+        "age": 25,
+        "birth_date": "01/01/2000",
+        "gender": "Masculino",
+        "location": "rio de janeiro",
+        "password": "DanDan2007!"
+    }
 }
